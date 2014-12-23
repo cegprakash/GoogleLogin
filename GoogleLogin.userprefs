@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoogleLogin/GoogleLoginViewController.cs">
+    <Files>
+      <File FileName="GoogleLogin/Main.cs" Line="1" Column="1" />
+      <File FileName="GoogleLogin/GoogleLoginViewController.designer.cs" Line="41" Column="41" />
+      <File FileName="GoogleLogin/SuccessController.cs" Line="1" Column="1" />
+      <File FileName="GoogleLogin/SuccessController.designer.cs" Line="33" Column="33" />
+      <File FileName="GoogleLogin/GoogleLoginViewController.cs" Line="36" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

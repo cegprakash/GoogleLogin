@@ -1,0 +1,35 @@
+# Version: 8.4.0.47 (7244769)
+# [first argument, ignore] # /Users/cegprakash/workspace/GoogleLogin/GoogleLogin/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.4.0.47/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/cegprakash/workspace/GoogleLogin/GoogleLogin/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/cegprakash/workspace/GoogleLogin/GoogleLogin/bin/iPhoneSimulator/Debug/GoogleLogin.app \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/cegprakash/workspace/GoogleLogin/Components/xamarin.social-1.1.5/lib/ios/Xamarin.Auth.iOS.dll \
+	-r \
+	/Users/cegprakash/workspace/GoogleLogin/Components/xamarin.social-1.1.5/lib/ios/Xamarin.Mobile.dll \
+	-r \
+	/Users/cegprakash/workspace/GoogleLogin/Components/xamarin.social-1.1.5/lib/ios/Xamarin.Social.iOS.dll \
+	-r \
+	/Users/cegprakash/workspace/GoogleLogin/Components/json.net-4.5.11/lib/ios/Newtonsoft.Json.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/cegprakash/workspace/GoogleLogin/GoogleLogin/bin/iPhoneSimulator/Debug/GoogleLogin.exe \

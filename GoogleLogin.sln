@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleLogin", "GoogleLogin\GoogleLogin.csproj", "{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Release|iPhone.Build.0 = Release|iPhone
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0921560E-D2DA-4CF9-AAB1-4B1F4822E2F3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GoogleLogin\GoogleLogin.csproj
+	EndGlobalSection
+EndGlobal
